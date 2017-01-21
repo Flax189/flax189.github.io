@@ -20,7 +20,7 @@ function setup() {
 	}
 	
 	fill(0);
-	ellipse(25+45*2,25+45*2,3,3);
+	ellipse(25+45*2,25+45*2,7,7);
 }
 
 function dropStone() {
