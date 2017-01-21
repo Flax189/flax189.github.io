@@ -21,6 +21,9 @@ function setup() {
 	
 	fill(0);
 	ellipse(25+45*2,25+45*2,7,7);
+	ellipse(25+45*2,25+45*8,7,7);
+	ellipse(25+45*8,25+45*2,7,7);
+	ellipse(25+45*8,25+45*8,7,7);
 }
 
 function dropStone() {
