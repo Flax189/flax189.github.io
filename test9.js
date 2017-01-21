@@ -19,6 +19,8 @@ function setup() {
 		line(25,i,385,i);
 	}
 	
+	fill(0);
+	ellipse(25+45*2,25+45*2,3,3);
 }
 
 function dropStone() {
